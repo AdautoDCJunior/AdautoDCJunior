@@ -1,4 +1,4 @@
-## Eai, eu sou o Adauto Júnior 
+## Olá meu nome é Adauto Júnior, sou desenvolverdor 👨‍💻 e maker nas horas vagas 🛠️.
 
 <div align="center">
   <a href="https://github.com/AdautoDCJunior">

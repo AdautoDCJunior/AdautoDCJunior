@@ -6,7 +6,8 @@
 > ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica e impressão 3D 🛠️.
 >
 > 📫 Entre em contato comigo: [dev.adautojunior@gmail.com](mailto:dev.adautojunior@gmail.com)
->
+
+##
 
 <div align="center">
   <a href="https://github.com/AdautoDCJunior">

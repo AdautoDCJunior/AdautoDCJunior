@@ -1,4 +1,12 @@
-## Olá meu nome é Adauto Júnior, sou desenvolverdor 👨‍💻 e maker nas horas vagas 🛠️.
+### Boa noite familia 🙋‍♂️
+> 💻 Atualmente trabalho como desenvolvedor na empresa [Lewe Negócios](https://www.lewecp.com.br/)
+> 
+> 📚 Estou estudando TypeScript, React e NextJS
+>
+> ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica e impressão 3D 🛠️.
+>
+> 📫 Entre em contato comigo: [dev.adautojunior@gmail.com](mailto:dev.adautojunior@gmail.com)
+>
 
 <div align="center">
   <a href="https://github.com/AdautoDCJunior">
@@ -24,7 +32,7 @@
 <div>
   <a href="https://www.linkedin.com/in/adautodcjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/adautocjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:adautodcjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dev.adautojunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">

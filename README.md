@@ -3,7 +3,7 @@
 > 
 > 📚 Estou estudando TypeScript, React e NextJS
 >
-> ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica e impressão 3D 🛠️.
+> ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica, programação e impressão 3D 🤖.
 >
 > 📫 Entre em contato comigo: [dev.adautojunior@gmail.com](mailto:dev.adautojunior@gmail.com)
 

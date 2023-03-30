@@ -1,7 +1,7 @@
 ### Boa noite familia 🙋‍♂️
-> 💻 Atualmente trabalho como desenvolvedor na empresa [Lewe Negócios](https://www.lewecp.com.br/)
+> 💻 Atualmente trabalho como desenvolvedor na empresa [Lev Negócios](https://www.levnegocios.com.br/)
 > 
-> 📚 Estou estudando TypeScript, React e NextJS
+> 📚 Estou estudando processos de ETL, banco de dados e DevOps
 >
 > ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica, programação e impressão 3D 🤖.
 >

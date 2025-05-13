@@ -11,6 +11,10 @@ Eu sou um analista de dados apaixonado por tecnologia, com habilidades em ETL, b
 * 📫 Entre em contato comigo: [dev.adautojunior@gmail.com](mailto:dev.adautojunior@gmail.com).
 
 ##
+
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=AdautoDCJunior&show_icons=true&theme=tokyonight)
+
+##
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">

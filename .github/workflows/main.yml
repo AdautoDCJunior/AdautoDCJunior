@@ -1,25 +1,35 @@
-name: Generate Datas
+name: Perfil 3D
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  push:
+    branches: [main]
   workflow_dispatch:
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: AdautoDCJunior
-          svg_out_path: dist/github-contribution-grid-snake.svg
+permissions:
+  contents: write
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+jobs:
+  generate:
+    name: Gerar calendário 3D
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          # PROFILE_3D_TOKEN é opcional: um token pessoal faz o radar e o
+          # gráfico de linguagens incluírem a atividade em repositórios privados.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-contrib.json
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

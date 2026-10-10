@@ -25,7 +25,7 @@ Fora do código: basquete 🏀, games 🎮 e projetos maker com eletrônica, pro
 - **Engenharia de dados:** pipelines e orquestração, data warehouse, CDC e processamento distribuído.
 - **Plataforma e infraestrutura:** containers, Kubernetes, infraestrutura como código e observabilidade.
 - **IA aplicada:** agentes, RAG e engenharia assistida por IA, com desenvolvimento e revisão de código apoiados por agentes.
-- **Liderança técnica:** padrões de engenharia, registros de decisão (ADRs), code review e desenvolvimento do time.
+- **Liderança técnica:** padrões de engenharia, registros de decisão (ADRs), code review e formação da equipe.
 
 ## Stack
 

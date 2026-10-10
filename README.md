@@ -1,46 +1,66 @@
-### Boa noite familia 🙋‍♂
-
-Eu sou um analista de dados apaixonado por tecnologia, com habilidades em ETL, banco de dados e DevOp.
-
-* 💻 Atualmente trabalho como desenvolvedor na empresa [Lev Negócios](https://www.levnegocios.com.br/);
-
-* 📚 Estou me aprofundando em processos de ETL e serviços em nuvem;
-
-* ⚡ Gosto de jogar basquete 🏀, games 🎮 e fazer projetos makers utilizando eletrônica, programação e impressão 3D 🤖;
-
-* 📫 Entre em contato comigo: [dev.adautojunior@gmail.com](mailto:dev.adautojunior@gmail.com).
-
-##
-
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=AdautoDCJunior&show_icons=true&theme=tokyonight)
-
-##
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="sqlalchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/adautodcjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/adautocjunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dev.adautojunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <div align="center">
 
-  ![Snake animation](https://github.com/AdautoDCJunior/AdautoDCJunior/blob/output/github-contribution-grid-snake.svg)
+# Adauto Júnior
 
+**Co-fundador & CTO da Elegen** · **Head de Tecnologia da [Lev Negócios](https://www.levnegocios.com.br/)**<br>
+Software, dados e IA · Franca, SP
+
+<a href="https://www.linkedin.com/in/adautodcjunior/"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" title="LinkedIn"></a>&nbsp;<a href="mailto:dev.adautojunior@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="E-mail" title="dev.adautojunior@gmail.com"></a>
+
+</div>
+
+## Sobre mim
+
+Sou co-fundador e CTO da **Elegen** e Head de Tecnologia da **Lev Negócios**. Lidero o time de engenharia e as decisões de arquitetura, plataforma e dados, sem largar o código: desenho, reviso e entrego junto com o time no dia a dia.
+
+Comecei a carreira em dados, como analista e depois engenheiro de dados. Na Lev Negócios, fui assumindo a tecnologia como um todo: dos pipelines e do data warehouse aos microsserviços, à infraestrutura e à formação do time. Essa origem ainda guia como penso software: sistemas confiáveis, observáveis e automatizados de ponta a ponta.
+
+Acredito em engenharia com padrões claros, decisões documentadas e revisão de verdade. Hoje dedico boa parte do meu tempo à engenharia assistida por IA: agentes que ajudam a planejar, implementar e revisar código, sempre validando o resultado com a aplicação rodando, não só lendo o diff.
+
+Fora do código: basquete 🏀, games 🎮 e projetos maker com eletrônica, programação e impressão 3D 🤖.
+
+## Onde atuo
+
+- **Arquitetura de software:** microsserviços, sistemas multi-tenant, APIs e controle de acesso (IAM).
+- **Engenharia de dados:** pipelines e orquestração, data warehouse, CDC e processamento distribuído.
+- **Plataforma e infraestrutura:** containers, Kubernetes, infraestrutura como código e observabilidade.
+- **IA aplicada:** agentes, RAG e engenharia assistida por IA, com desenvolvimento e revisão de código apoiados por agentes.
+- **Liderança técnica:** padrões de engenharia, registros de decisão (ADRs), code review e desenvolvimento do time.
+
+## Stack
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,nodejs,express,sequelize,nextjs,react,tailwind,mysql,postgres,redis,docker,kubernetes,terraform,ansible,aws,prometheus,grafana,githubactions,vitest&perline=10&theme=light">
+    <img alt="TypeScript, Python, Node.js, Express, Sequelize, Next.js, React, Tailwind CSS, MySQL, PostgreSQL, Redis, Docker, Kubernetes, Terraform, Ansible, AWS, Prometheus, Grafana, GitHub Actions e Vitest" src="https://skillicons.dev/icons?i=ts,py,nodejs,express,sequelize,nextjs,react,tailwind,mysql,postgres,redis,docker,kubernetes,terraform,ansible,aws,prometheus,grafana,githubactions,vitest&perline=10&theme=dark">
+  </picture>
+</div>
+
+<details>
+<summary><b>Stack completa por área</b></summary>
+<br>
+
+| Área | Tecnologias |
+|---|---|
+| Linguagens | TypeScript, Python, SQL (T-SQL), Bash, HCL |
+| Backend | Node.js, Express, Sequelize, Zod, OpenAPI/Swagger, JWT |
+| Frontend | Next.js, React, Tailwind CSS, Ark UI, TanStack Query, Storybook |
+| Dados | Apache Airflow, PySpark, pandas, AWS Glue, Power BI |
+| Bancos de dados | MySQL, SQL Server, PostgreSQL, Redis, Weaviate |
+| Infra e DevOps | Docker, Kubernetes, Helm, Terraform, Ansible, nginx, Prometheus, Grafana, GitHub Actions, AWS |
+| Automação (RPA) | Playwright, Puppeteer, Selenium |
+| IA | Claude Code, OpenAI, RAG com Weaviate |
+| Qualidade | Vitest, Jest, Supertest |
+
+</details>
+
+## Atividade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AdautoDCJunior&hide_border=true&theme=github-dark-blue">
+    <img height="165" alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=AdautoDCJunior&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+  </picture>
+  <br><br>
+  <img alt="Calendário de contribuições em 3D" src="https://raw.githubusercontent.com/AdautoDCJunior/AdautoDCJunior/output/profile-3d-contrib.svg">
 </div>

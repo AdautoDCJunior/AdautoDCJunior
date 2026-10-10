@@ -1,0 +1,28 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d-contrib.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1f2328",
+  "strongColor": "#1a7f37",
+  "weakColor": "#59636e",
+  "radarColor": "#2da44e",
+  "growingAnimation": true,
+  "contribColors": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
+  "l10n": {
+    "commit": "Commits",
+    "repo": "Repos",
+    "review": "Reviews",
+    "pullreq": "PRs",
+    "issue": "Issues",
+    "contrib": "contribuições"
+  },
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "#47a042",
+    "contribColors": ["#444444", "#1B7D28", "#24A736", "#2DD143", "#57DA69"]
+  }
+}

@@ -11,7 +11,7 @@ Software, dados e IA · Franca, SP
 
 ## Sobre mim
 
-Sou co-fundador e CTO da **Elegen** e Head de Tecnologia da **Lev Negócios**. Lidero o time de engenharia e as decisões de arquitetura, plataforma e dados, sem largar o código: desenho, reviso e entrego junto com o time no dia a dia.
+Sou co-fundador e CTO da **Elegen** e Head de Tecnologia da **Lev Negócios**. Defino a estratégia de tecnologia e a arquitetura de plataforma e dados, e lidero a equipe de desenvolvimento. Mantenho a profundidade técnica para apoiar a equipe nas decisões mais difíceis.
 
 Comecei a carreira em dados, como analista e depois engenheiro de dados. Na Lev Negócios, fui assumindo a tecnologia como um todo: dos pipelines e do data warehouse aos microsserviços, à infraestrutura e à formação do time. Essa origem ainda guia como penso software: sistemas confiáveis, observáveis e automatizados de ponta a ponta.
 
@@ -25,7 +25,7 @@ Fora do código: basquete 🏀, games 🎮 e projetos maker com eletrônica, pro
 - **Engenharia de dados:** pipelines e orquestração, data warehouse, CDC e processamento distribuído.
 - **Plataforma e infraestrutura:** containers, Kubernetes, infraestrutura como código e observabilidade.
 - **IA aplicada:** agentes, RAG e engenharia assistida por IA, com desenvolvimento e revisão de código apoiados por agentes.
-- **Liderança técnica:** padrões de engenharia, registros de decisão (ADRs), code review e desenvolvimento do time.
+- **Liderança técnica:** padrões de engenharia, registros de decisão (ADRs), code review e formação da equipe.
 
 ## Stack
 
